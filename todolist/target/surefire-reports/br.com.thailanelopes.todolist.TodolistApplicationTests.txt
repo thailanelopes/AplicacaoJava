@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.thailanelopes.todolist.TodolistApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 38.61 s -- in br.com.thailanelopes.todolist.TodolistApplicationTests
